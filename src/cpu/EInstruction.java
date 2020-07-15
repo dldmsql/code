@@ -1,0 +1,17 @@
+package cpu;
+
+public enum EInstruction {
+	HLT, LDA, LDV, STA, STV, ADD, AND, JMP, BZ, NOT,SHR, PRT
+}
+// HLT : HALT
+// LDA : LOAD ADDRESS
+// LDV : LOAD VALUE
+// STA : STORE ADDRESS
+// STV : STORE VALUE
+// ADD 
+// AND
+// JMP : JUMP
+// BZ : BELLOW ZERO
+// NOT 
+// SHR : SHIFT RIGHT
+// PRT : PRINT
