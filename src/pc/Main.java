@@ -8,5 +8,6 @@ public class Main {
 		Board board = new Board(); // 메인 보드
 		board.run();
 	}
+	// hi
 
 }
